@@ -5,8 +5,8 @@
 
 
 
-www.google.com
+External link www.google.com
 
 <www.google.com>
 
-[Constantin](../../../constantin)
+Internal Link [Constantin](../../../constantin)
