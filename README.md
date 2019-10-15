@@ -30,5 +30,5 @@ Internal Link [Constantin](../../../constantin)
 # Table
 
 | Real Name | Andrew | Koko | Andrew |
-| :-: |:-: |:-: | :-: |
+| -|- |- | - |
 | Nick Name | Genius| Bla bla| chemist |
