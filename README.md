@@ -32,3 +32,5 @@ Internal Link [Constantin](../../../constantin)
 | Real Name | Andrew | Koko | Andrew |
 | -|- |- | - |
 | Nick Name | Genius| Bla bla| chemist |
+| Phone Numbe | 13211 | 43424 | 3423423 |
+|Country| :argentina: | :brasil: | :canada: |
