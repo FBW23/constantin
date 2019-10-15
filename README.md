@@ -19,4 +19,4 @@ Internal Link [Constantin](../../../constantin)
 
 ![image](images/jocker.jpg "icon")
 
-:moldova:
+:moldova::moldova::moldova::moldova::moldova::moldova::moldova::moldova::moldova::moldova::moldova:
