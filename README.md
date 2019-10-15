@@ -17,4 +17,4 @@ Internal Link [Constantin](../../../constantin)
 [link to an anchor](#anchor-in-markdown)
 
 
-![image](jocker.jpg "icon")
+![image](images/jocker.jpg "icon")
