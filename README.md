@@ -26,3 +26,9 @@ Internal Link [Constantin](../../../constantin)
 - [x] food
 - [ ] drink
 - [ ] smoke
+
+# Table
+
+| Real Name | Andrew | Koko | Andrew |
+| :-: |:-: |:-: | :-: |
+| Nick Name | Genius| Bla bla| chemist |
